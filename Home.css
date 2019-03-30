@@ -1,0 +1,65 @@
+body { 
+  padding-top: 70px; 
+  font-family: Lato;
+ /* background-color: #006080;*/
+ background-color: #004d66;
+
+
+  
+}
+
+    .jumbotron {
+      color: #2c3e50;
+      background: #ecf0f1;
+      height: 50%;
+      text-align: center;
+
+      
+    }
+
+    .navbar-inverse {
+      background: #2c3e50;
+      color: white;
+
+    }
+
+    .navbar-inverse .navbar-brand, .navbar-inverse a{
+      color:white;
+    }
+
+    .navbar-inverse .navbar-nav>li>a {
+      color: white;
+    } 
+
+    #data3{
+      margin-top: 1%;
+    }
+
+    #data2{
+      border:7px solid white;
+      padding: 10px;
+      display: inline-block;
+      border-radius: 20%;
+      border-color: #2c3e50;
+    }
+
+    .input-group{
+  
+      float: center;
+      width: 50%;
+      margin: auto;
+
+    }
+
+    #btn-lg{
+      border:3.5px solid #2c3e50;
+      padding: 10px;
+      border-radius: 20%;
+      margin-top: 1%;
+
+    }
+
+    #div2{
+      margin-top: 5px;
+    
+    }    
